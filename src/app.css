@@ -1,0 +1,15 @@
+.added {
+    margin: 5px;
+    padding: 10px;
+    color: #178f17;
+    border: 3px solid #178f17;
+    background: #c9ccb6;
+}
+
+.error {
+    margin: 5px;
+    padding: 10px;
+    color: #cc2b43;
+    border: 3px solid #cc2b43;
+    background: #c9ccb6;
+}
